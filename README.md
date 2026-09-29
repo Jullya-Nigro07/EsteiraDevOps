@@ -1,12 +1,10 @@
-# Lab-DevOps: Pipeline CI/CD com GitHub Actions e Vercel
+DevOps: Pipeline CI/CD com GitHub Actions e Vercel
 
 ---
 
 ## 🤖 Visão Geral
 
-Este repositório contém o projeto final para a disciplina de **Análise e Desenvolvimento de Sistemas** da **Faculdade Impacta de Tecnologia**.
-
-O objetivo principal foi implementar um **pipeline de Integração Contínua (CI) e Entrega Contínua (CD)** automatizado, utilizando o **GitHub Actions** para gerenciar a construção, teste e implantação de uma API. A aplicação é conteinerizada com **Docker** e o deploy final é realizado na plataforma **Vercel**.
+O projeto tem como objetivo principal implementar um **pipeline de Integração Contínua (CI) e Entrega Contínua (CD)** automatizado, utilizando o **GitHub Actions** para gerenciar a construção, teste e implantação de uma API. A aplicação é conteinerizada com **Docker** e o deploy final é realizado na plataforma **Vercel**.
 
 ---
 
